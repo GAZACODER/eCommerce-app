@@ -1,10 +1,10 @@
 import React from "react";
 import "./style.css";
 
-const Typography = ({ className, content }) => {
+const Typography = ({ classN, content }) => {
   return (
     <>
-      <div className={className}>{content}</div>
+      <div className={`${classN}`}>{content}</div>
     </>
   );
 };

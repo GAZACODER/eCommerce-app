@@ -1,0 +1,31 @@
+{
+  "Header": {
+    "contact": {
+      "title": "Chat with us",
+      "phone": "+420 336 775 664",
+      "email": "info@freshnesecom.com"
+    },
+    "rightHeader": {
+      "item1": "Blog",
+      "item2": "About Us",
+      "item3": "Careers"
+    },"midHeader":{
+      "item1": "freshnesecom",
+      "item2": "All categories",
+      "item3": "Search Products, categories ..."
+
+    }
+
+  },"bottomHeader":{
+    "item1": "Bakery",
+    "item2": "Fruit and vegetables",
+    "item3": "Meat and fish",
+    "item4": "Drinks",
+    "item5": "Kitchen",
+    "item6": "Special nutrition",
+    "item7": "Baby",
+    "item8": "Pharmacy"
+
+  }
+
+}
